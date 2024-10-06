@@ -1,8 +1,8 @@
 package funding
 
 import (
-	models "github.com/amir-the-h/okex/models/funding"
-	"github.com/amir-the-h/okex/responses"
+	models "github.com/yahtoo/okex/models/funding"
+	"github.com/yahtoo/okex/responses"
 )
 
 type (
